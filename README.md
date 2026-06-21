@@ -1,2 +1,2 @@
 # SRS-Document-UML-Diagrams
-UML Diagrams 
+Contains all UML diagrams created for the Software Requirements Specification (SRS) document. This includes system modelling diagrams such as Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram, and other supporting UML diagrams that represent the system structure, behaviour, and interactions. These diagrams provide a visual representation of the system requirements and design specifications.
